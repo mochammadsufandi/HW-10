@@ -1,0 +1,7 @@
+# exception for file with extension .pdf
+*.pdf
+
+# exception for node_module directory
+node_modules
+
+uploads
